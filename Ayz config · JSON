@@ -1,0 +1,8 @@
+{
+  "ollama_host": "http://localhost:11434",
+  "ollama_model": "llama3.1",
+  "voice": "Yelda",
+  "language": "tr",
+  "theme": "dark",
+  "system_prompt": "Sen AYZ adında yardımsever bir yapay zeka asistanısın. Rol yapma senaryolarında karaktere sadık kal, akıcı ve doğal bir üslup kullan."
+}
